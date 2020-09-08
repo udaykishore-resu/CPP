@@ -1,0 +1,2 @@
+1: I am learning Solid Principles
+2: started leaning Single Responsibility Principle
